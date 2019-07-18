@@ -6,8 +6,8 @@ that accepts an abbreviated memory trace file as an input, then simulates six di
 
 The input to the simulator has to be an abbreviated memory trace file. 
 Each line in the trace file should be composed of:
-1) the memory access address, 
-2) and a flag indicating if the memory operation was a Load (L) or a store (S).
+1) The memory access address, 
+2) A flag indicating if the memory operation was a Load (L) or a store (S).
 As an example, consider the following three lines:
 1fffff50 S 
 1fffff58 L 
