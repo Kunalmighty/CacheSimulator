@@ -1,6 +1,6 @@
 /*
 
-Name: Kunal Baran Maiti, JHED ID: kmaiti1, CSF Spring 2019, Prog Assignment 6 (Cache Simulator)
+Kunal Baran Maiti
 
 cache.cpp - Cache Simulator for a file containing an abbreviated memory trace file.
 
